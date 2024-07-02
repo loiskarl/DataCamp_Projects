@@ -1,4 +1,4 @@
-# DataCamp_Projects
+# Projects
 
 ## 1. Data Visualization Projects
 
