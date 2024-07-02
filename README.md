@@ -1,10 +1,10 @@
 # DataCamp_Projects
 
-1. Data Visualization Projects
+# 1. Data Visualization Projects
 
 Your projects in data visualization showcase your ability to transform raw data into insightful visual representations. These projects typically involve:
 
- Exploratory Data Analysis (EDA): Using various Python libraries such as pandas, matplotlib, and seaborn, you explore datasets to uncover patterns, trends, and anomalies. This involves creating a variety of plots like histograms, scatter plots, and heatmaps.
+Exploratory Data Analysis (EDA): Using various Python libraries such as pandas, matplotlib, and seaborn, you explore datasets to uncover patterns, trends, and anomalies. This involves creating a variety of plots like histograms, scatter plots, and heatmaps.
 Dashboard Creation: Leveraging tools like Plotly and Dash, you design interactive dashboards that provide dynamic and comprehensive insights into the data.
 Storytelling with Data: Through the use of well-crafted visuals, you tell compelling stories that highlight key findings and make complex data more accessible to a broader audience.
 
